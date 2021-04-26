@@ -1,7 +1,7 @@
 # add
 ## mais um commit
-.idea/
+.idea
 *.sqlite3
-venv/
-*/__pycache__/
+venv
+gestao_rh/__pycache__/
 *.pyc
